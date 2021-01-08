@@ -1,0 +1,20 @@
+.container{
+	width:70%;
+	text-align: center;
+	margin:auto;
+}
+h1{
+	font-size:50px;
+	color:yellow;
+	text-align: center;
+}
+.row{
+
+	padding:25px;
+	width:100%;
+}
+.col-conr{
+	text-align: center;
+	width:48%;
+	display: inline-block;
+}
